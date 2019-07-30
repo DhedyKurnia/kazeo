@@ -1,0 +1,38 @@
+{
+  "name": "Caricara.web.id",
+  "short_name": "icon_cara",
+  "start_url": "https://www.caricara.web.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Tutorial dan Informasi Seputar Teknologi",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-S_3GXGic9bA/XT__c2BuDfI/AAAAAAAAF7k/4D7SivbEZXgWUy5b8SlAkItrHaT7epn6wCLcBGAs/s48/icon-cara.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S_3GXGic9bA/XT__c2BuDfI/AAAAAAAAF7k/4D7SivbEZXgWUy5b8SlAkItrHaT7epn6wCLcBGAs/s72/icon-cara.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S_3GXGic9bA/XT__c2BuDfI/AAAAAAAAF7k/4D7SivbEZXgWUy5b8SlAkItrHaT7epn6wCLcBGAs/s96/icon-cara.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S_3GXGic9bA/XT__c2BuDfI/AAAAAAAAF7k/4D7SivbEZXgWUy5b8SlAkItrHaT7epn6wCLcBGAs/s144/icon-cara.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S_3GXGic9bA/XT__c2BuDfI/AAAAAAAAF7k/4D7SivbEZXgWUy5b8SlAkItrHaT7epn6wCLcBGAs/s168/icon-cara.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S_3GXGic9bA/XT__c2BuDfI/AAAAAAAAF7k/4D7SivbEZXgWUy5b8SlAkItrHaT7epn6wCLcBGAs/s192/icon-cara.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S_3GXGic9bA/XT__c2BuDfI/AAAAAAAAF7k/4D7SivbEZXgWUy5b8SlAkItrHaT7epn6wCLcBGAs/s512/icon-cara.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
